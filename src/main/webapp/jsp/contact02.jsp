@@ -7,6 +7,51 @@
 <head>
 <meta charset="UTF-8">
 <title>確定ページ</title>
+<style>
+    body {
+        font-family: "Helvetica Neue", sans-serif;
+        background-color: #f0f8ff;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .container {
+        max-width: 700px;
+        margin: 60px auto;
+        background-color: #ffffff;
+        padding: 40px;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+        color: #2c3e50;
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 1.6;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    .highlight {
+        font-weight: bold;
+        color: #007BFF;
+    }
+
+    .options {
+        background-color: #eef6ff;
+        border-left: 5px solid #007BFF;
+        padding: 10px 15px;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+
+    
+</style>
 </head>
 <body>
 <p>お客様のページ</p>
