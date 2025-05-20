@@ -73,7 +73,7 @@
 
 	<P>お名前：<input type="text" name="name" placeholder="辻口乃亜" required></P>
 	<P>会社名：<input type="text" name="company" placeholder="辻口商事" ></P>
-	<P>メールアドレス：<input type="email" name="email" placeholder="○○○○@○○○.co.jp" required></P>
+	<P>メールアドレス：<input type="text" name="email" placeholder="○○○○@○○○.co.jp" required></P>
 	<P>お問い合わせ内容：<textarea id="myTextarea" rows="5" cols="30" name="request"></textarea></P>
 	
     <p>メルマガ種類</p>
